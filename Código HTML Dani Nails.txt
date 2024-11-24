@@ -1,0 +1,66 @@
+<html>
+
+<head>
+    <title>Espa&ccedil;o Dani nails</title>
+    <link href="estilos.css" 
+            rel="stylesheet"
+            type="text/css">
+</head>
+
+<body id="corpo">
+     
+     <div id="Logo">  
+    <img src="Logo dani nails.png" width="200">
+</div>
+
+<hr>
+
+
+<div class="Container">
+<details id="alongfibra"> 
+    <summary>Alongamentos em fibra</summary>
+
+ <img src="WhatsApp Image 2024-11-15 at 14.27.33.jpeg" width="200"> <img src="WhatsApp Image 2024-11-15 at 14.27.32.jpeg" width="200">
+  <img src="WhatsApp Image 2024-11-15 at 14.27.33 (1).jpeg" width="200"> <img src= "alogamento mini.jpeg" width="200" height="267"> 
+
+
+</details>
+
+
+<details id="esmaltgel">
+    <summary>Esmaltacao em gel</summary>
+ 
+     <img src="esmaltação em gel.jpeg" width="200"> <img src="esmaltação em gel 2.jpeg" width="200"> <img src="esmaltação em gel 3.jpeg " width="200"> 
+     <br><br> 
+
+     <br><br>
+</details>
+<br><br>
+
+<details id="unhanatu">
+    <summary>Unhas natural</summary>
+      <img src="unha natural1.jpeg" width="200" height="267"> <img src="unha natural2.jpeg" width="200" height="267">
+      <img src="unha natural 3.jpeg" width="200"  height="267">
+      <br><br> 
+</details>
+<br><br>
+<details id="unhape">
+    <summary>P&eacute;s</summary>
+<img src="pe 1.jpeg"width="200" height="267"> <img src="pe 2.jpeg"width="200" height="267"> <img src="pe 3.jpeg"width="200" height="267">
+
+</details>
+</div>
+<hr>
+
+<div class="container2">
+<h1>Sobre mim</h1> 
+<img src="Imagem dani nails.jpeg" width="200" height="200">
+<p>Atuo na área desde 2011, em 2020 fiz um curso especializante sobre alogamentos.</p>
+<p>Meu foco hoje &eacute; Alongamentos e  esmaltação em gel.</p>
+<p>Meu principal objetivo como profissional &eacute; fazer o melhor trabalho poss&iacute;vel</p>
+</div>
+<BR><BR><BR><BR>
+<h1>Meus contatos</h1>
+<a href="https://www.instagram.com/espacodaninails/" target="_blank"><img src="logo insta.jpg" width="70"></a>
+<a href="https://api.whatsapp.com/message/UN6YG3VOT63KN1?autoload=1&app_absent=0" target="_blank"> <img src="logo whats.png" width="70"></a>
+</body>

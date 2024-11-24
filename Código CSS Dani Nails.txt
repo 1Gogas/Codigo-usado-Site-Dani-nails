@@ -1,0 +1,55 @@
+
+.container {
+    display: flex;
+  }
+  
+  details {
+    width: 25%; 
+  }
+
+  .container2{
+    text-align: center;
+    padding-top: 50px;
+    
+    
+
+}
+  
+
+ 
+
+#logo{
+    display: flex;
+    justify-content: center;
+    background-color: #fff0ef;
+  
+
+}
+
+#alongfibra{
+    margin: 0;
+    text-align: center;
+}
+
+#esmaltgel{
+    margin: 0;
+    text-align: center;
+
+}
+
+#unhanatu{
+    margin: 0;
+    text-align: center;
+
+}
+
+#unhape{
+    margin: 0;
+    text-align: center;
+
+}
+
+#corpo{
+    background-color:  #fff0ef;
+}
+
